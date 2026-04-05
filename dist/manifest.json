@@ -10,18 +10,47 @@
   "theme_color": "#f39c12",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%231a1a2e' width='192' height='192'/><circle cx='96' cy='96' r='70' fill='%23f39c12'/><text x='96' y='110' font-size='70' font-weight='bold' fill='%231a1a2e' text-anchor='middle' font-family='Arial'>T</text></svg>",
-      "sizes": "192x192",
-      "type": "image/svg+xml",
+      "src": "/launchericon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%231a1a2e' width='512' height='512'/><circle cx='256' cy='256' r='180' fill='%23f39c12'/><text x='256' y='300' font-size='200' font-weight='bold' fill='%231a1a2e' text-anchor='middle' font-family='Arial'>T</text></svg>",
+      "src": "/launchericon-72x72.c944cf797fe96a471f0e.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/launchericon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/launchericon-144x144.59cd75ee79baedf23d15.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/launchericon-512x512.5418f6233ec48dec4849.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "categories": ["business", "productivity"],
-  "screenshots": []
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "screenshots": [],
+  "version": "1.0.0",
+  "build_date": "2026-04-05T09:26:06.322Z"
 }
